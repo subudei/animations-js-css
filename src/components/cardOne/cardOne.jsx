@@ -10,6 +10,7 @@ import DietPepsi from "../../assets/leonePro1.png";
 function CardOne() {
   return (
     <div className="card__one__container">
+      <h1>Card One</h1>
       <div className="card__one">
         <div className="circle__one" />
         <div className="card__one__content">
